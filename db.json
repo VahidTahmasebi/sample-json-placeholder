@@ -1,0 +1,127 @@
+{
+  "notes": [
+    {
+      "id": 1680197533389,
+      "createAt": "3/30/2023, 9:02:13 PM",
+      "subject": "Reading the JS book",
+      "textarea": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "checklist": [],
+      "progress": {
+        "label": "🚀 - %50",
+        "value": "progress50"
+      },
+      "cover": "/assets/4.png",
+      "date": false,
+      "time": false,
+      "place": "",
+      "tags": [
+        {
+          "value": "Learn",
+          "label": "Learn"
+        }
+      ]
+    },
+    {
+      "id": 1680197603373,
+      "createAt": "3/30/2023, 9:03:23 PM",
+      "subject": "Hangout with friends",
+      "textarea": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "checklist": [],
+      "progress": false,
+      "cover": "/assets/1.jpg",
+      "date": "2023-04-01",
+      "time": "10:04",
+      "place": "",
+      "tags": [
+        {
+          "value": "Happy",
+          "label": "Happy"
+        },
+        {
+          "value": "Sport",
+          "label": "Sport"
+        }
+      ]
+    },
+    {
+      "id": 1680197695770,
+      "createAt": "3/30/2023, 9:05:06 PM",
+      "subject": "Continue project",
+      "textarea": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "checklist": [
+        {
+          "id_check": 1680197668289,
+          "check": "Server",
+          "completed": false
+        },
+        {
+          "id_check": 1680197677211,
+          "check": "Navbar",
+          "completed": true
+        }
+      ],
+      "progress": {
+        "label": "😎 - %75",
+        "value": "progress75"
+      },
+      "cover": "/assets/2.jpg",
+      "date": false,
+      "time": false,
+      "place": "",
+      "tags": [
+        {
+          "value": "Work",
+          "label": "Work"
+        }
+      ]
+    },
+    {
+      "id": 1680197859958,
+      "createAt": "3/30/2023, 9:07:39 PM",
+      "subject": "Weekend planning",
+      "textarea": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "checklist": [
+        {
+          "id_check": 1680197750553,
+          "check": "Ticket purchase",
+          "completed": false
+        }
+      ],
+      "progress": {
+        "label": "😎 - %75",
+        "value": "progress75"
+      },
+      "cover": "/assets/3.jpg",
+      "date": "2023-03-31",
+      "time": "11:07",
+      "place": "London",
+      "tags": [
+        {
+          "value": "Happy",
+          "label": "Happy"
+        }
+      ]
+    },
+    {
+      "id": 1680197859959,
+      "createAt": "3/30/2023, 9:07:40 PM",
+      "subject": "Course Typescript",
+      "textarea": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "checklist": [],
+      "progress": {
+        "label": "😎 - %75",
+        "value": "progress75"
+      },
+      "cover": "/assets/5.jpg",
+      "date": "2023-04-31",
+      "time": "11:07",
+      "place": "",
+      "tags": [
+        {
+          "value": "Learn",
+          "label": "Learn"
+        }
+      ]
+    }
+  ]
+}
